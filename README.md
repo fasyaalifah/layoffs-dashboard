@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard analyzing global layoffs trends across industries, companies, and regions from 2020 to 2025.
 
-![Layoffs Dashboard](layoffs_dashboard.png)
+![Layoffs Dashboard](layoffs_dashboard.PNG)
 
 ## Project Overview
 This project visualizes layoff data to identify patterns in industry impact, company size, funding stage, and geography. The goal is to understand how economic shifts affected workforce reduction in the tech and consumer sectors.
