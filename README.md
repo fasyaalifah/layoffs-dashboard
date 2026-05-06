@@ -39,6 +39,3 @@ Companies like Intel, Amazon, Microsoft, and Meta alone account for 100K+ layoff
 - **Power Query**: Data cleaning and transformation
 - **Excel/CSV**: Data source format
 - **Format**: Numbers displayed in Thousands (K) for readability
-3. Check `.queries/` folder for data cleaning scripts used in this project
-
-## Folder Structure
